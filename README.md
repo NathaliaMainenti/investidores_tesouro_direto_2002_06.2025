@@ -50,8 +50,8 @@ Este conjunto de dados contém registros de investidores cadastrados no programa
 
 ## 🚀 Como reproduzir
 1. Clone este repositório
-git clone git@github.com:NathaliaMainenti/perfil_dos_investidores_do_tesouro_direto_2022-06.2025.git
-cd perfil_dos_investidores_do_tesouro_direto_2022-06.2025
+git clone git@github.com:NathaliaMainenti/investidores_do_tesouro_direto_2022-06.2025.git
+cd investidores_do_tesouro_direto_2022-06.2025
 
 2. Crie um ambiente virtual (opcional, mas recomendado)
 python -m venv venv
