@@ -1,0 +1,6 @@
+# =====================================
+# 🧮 Data
+# =====================================
+# Raw and processed datasets (often large)
+*.csv
+*.parquet
